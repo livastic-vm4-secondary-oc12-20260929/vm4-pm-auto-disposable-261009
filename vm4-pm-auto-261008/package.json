@@ -1,1 +1,1 @@
-{"name":"vm4-yarn-build-policy","version":"1.0.0","private":true,"packageManager":"yarn@4.18.1"}
+{"name":"vm4-yarn-build-policy","version":"1.0.0","private":true,"packageManager":"yarn@4.18.1","dependenciesMeta":{"vm4-build-policy-canary":{"built":true}}}
