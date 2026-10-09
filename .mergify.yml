@@ -16,3 +16,13 @@ queue_rules:
     merge_conditions:
       - check-success = vm4-never-package-manager-auto
     merge_method: merge-batch
+
+  - name: vm4-devengines-impact-261009
+    batch_size: 2
+    batch_max_wait_time: 30 sec
+    queue_conditions:
+      - base = vm4-devengines-impact-base-261009
+      - title = VM4 DEVENGINES IMPACT 261009
+    merge_conditions:
+      - check-success = vm4-devengines-impact-gate
+    merge_method: merge-batch
