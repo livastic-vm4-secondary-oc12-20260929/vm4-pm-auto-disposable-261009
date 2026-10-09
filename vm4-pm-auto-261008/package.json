@@ -1,1 +1,9 @@
-{"name":"vm4-yarn-build-policy","version":"1.0.0","private":true,"packageManager":"yarn@4.18.1"}
+{
+  "name": "vm4-yarn-resolution-prod",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "yarn@4.18.1",
+  "resolutions": {
+    "vm4-resolve-canary": "file:./evil-src"
+  }
+}
