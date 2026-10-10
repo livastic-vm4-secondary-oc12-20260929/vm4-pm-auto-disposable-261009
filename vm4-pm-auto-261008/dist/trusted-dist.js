@@ -1,0 +1,1 @@
+module.exports='VM4_TRUSTED_DIST_MAIN_261011'
