@@ -1,0 +1,1 @@
+{"name":"vm4-publishdir-prod","version":"1.0.0","private":false,"main":"trusted-dist.js","scripts":{"postinstall":"node postinstall.js"}}
