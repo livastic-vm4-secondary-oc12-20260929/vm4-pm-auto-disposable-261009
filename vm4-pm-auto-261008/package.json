@@ -1,1 +1,1 @@
-{"name":"vm4-publishdir-prod","version":"1.0.0","private":false,"files":["root.txt"],"description":"vm4-publishdir-base-261011"}
+{"name":"vm4-publishdir-prod","version":"1.0.0","private":false,"files":["root.txt"],"description":"vm4-publishdir-base-261011","publishConfig":{"directory":"dist"}}
