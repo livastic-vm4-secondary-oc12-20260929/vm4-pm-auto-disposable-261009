@@ -1,1 +1,1 @@
-{"name":"vm4-type-mode-crossproduct","version":"1.0.0","type":"commonjs","main":"index.js","scripts":{"postinstall":"node index.js"},"description":"base"}
+{"name":"vm4-type-mode-crossproduct","version":"1.0.0","type":"commonjs","main":"index.js","scripts":{"postinstall":"node index.js"},"description":"trusted-owner-a"}
